@@ -1,0 +1,12 @@
+[package]
+name = "random-virus"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aes-gcm = "0.9.4"
+hex = "0.4.3"
+md5 = "0.7.0"
+walkdir = "2.3.2"
